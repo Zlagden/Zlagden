@@ -1,5 +1,6 @@
-👋 Hey there, I’m Zak Lagden
-Full-stack developer | Product enthusiast | Physiotherapist
+<h1>👋 Hey there, I’m Zak Lagden</h1>
+
+Full-stack developer | Product enthusiast
 
 I’m a full-stack developer with experience in JavaScript, Ruby on Rails, SQL, CSS, HTML, and GitHub workflows, building intuitive, data-driven web applications. I recently completed the Le Wagon bootcamp, where I designed, implemented, and shipped projects including Explore Abroad (a visa/job requirements app) and FrogBnB (a playful Airbnb-inspired platform).
 
